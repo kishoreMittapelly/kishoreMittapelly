@@ -20,7 +20,7 @@ I am Lead Java Developer with 11 years of experience in developing efficient, sc
 
 ## Expertise:
 * Java 8, Spring boot, microservices ,Reactive Programming with Mono, WebFlux
-* Restful Services implmentation with REST API ENDPOINTS , FUNCATINAL ENDPOINTS
+* Restful Services implmentation with REST API ENDPOINTS , FUNCTIONAL ENDPOINTS
 * JPA, Hibernate, Spring DataJPA
 * Predix Cloud and Cloud Foundry 
 * ReactJS,Google web tool kit
